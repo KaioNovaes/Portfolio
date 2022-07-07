@@ -1,0 +1,17 @@
+.main-subtitle { 
+    font-family: 'Press Start 2P', sans-serif;
+    text-shadow: 4px 4px 4px #000;
+    color: #fff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+}
+.main-subtitle.-second { 
+    font-family: 'Press Start 2P', sans-serif;
+    text-shadow: 4px 4px 4px #000;
+    color: #20B2AA;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 10px;
+}

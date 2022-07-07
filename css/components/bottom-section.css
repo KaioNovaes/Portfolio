@@ -1,0 +1,24 @@
+.bottom-section {
+    background-image: url(../../assets/img/Esfumado.png);
+    border-bottom: 10px solid #9370DB;
+    background-size: 100%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    height: 600px;
+    
+}
+.bottom-section.-second {
+    height: 450px;
+    
+}
+.bottom-section.-projects{
+    background-image: url(../../assets/img/pc.png);
+    background-color: #000;
+    height: 470px;
+    background-repeat: no-repeat;
+
+}
+.bottom-section.-bgBlack {
+    border-bottom: 10px solid #9370DB;
+
+}

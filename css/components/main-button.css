@@ -1,0 +1,26 @@
+.main-button { 
+    transition: transform 100ms cubic-bezier(0.42, 0, 0.07, 2.12);
+    box-shadow: 5px 5px 4px #000;
+    background-color: #20B2AA;
+    color: #fff;
+    display: inline-block;
+    padding: 15px 18px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom-right-radius: 20%;
+    
+}
+.main-button:hover {
+    transform: scale(1.08);
+}
+.main-button.-second {  
+    background-color: #11ffee00;
+    border: 3px solid #9370DB;
+    box-shadow: 2px 2px 8px #20B2AA;
+    font-family: 'Press Start 2P', sans-serif;
+    display: inline-block;
+    align-items: center;    
+    font-size: 15px;
+}

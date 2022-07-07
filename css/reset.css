@@ -1,0 +1,17 @@
+body {
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+
+}
+body, a, h3 {
+    margin: 0;
+    
+}
+button {
+    border: none;
+    font-family: "Press Start 2P";
+
+}
+[data-title] {
+    text-decoration: none;
+
+}

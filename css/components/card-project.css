@@ -1,0 +1,11 @@
+.card-project {
+    transition: transform 100ms cubic-bezier(0.42, 0, 0.07, 2.12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    cursor: help;
+}
+.card-project:hover {
+    transform: scale(1.08);
+}
